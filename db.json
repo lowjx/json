@@ -1,8 +1,10 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "LectureID": 12345,
+      "Date": 20 March 2019
+      "Time": "10am"
+      "ModuleCode": "EG2011"
     }
   ],
   "profile": {
