@@ -5,8 +5,15 @@
       "date": "20Mar2019",
       "time": "10am",
       "moduleCode": "EG2012"
+    },
+    {
+      "id": 12344,
+      "date": "20Mar2019",
+      "time": "12pm",
+      "moduleCode": "EG2013"
     }
   ],
+  
   "profile": {
     "name": "typicode"
   }
