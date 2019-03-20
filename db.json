@@ -2,8 +2,8 @@
   "posts": [
     {
       "LectureID": 12345,
-      "Date": 20 March 2019
-      "Time": "10am"
+      "Date": 20 March 2019,
+      "Time": "10am",
       "ModuleCode": "EG2011"
     }
   ],
