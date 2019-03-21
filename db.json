@@ -2,25 +2,25 @@
   "onedaylesson": [
     {
       "id": 12345,
-      "date": "mon20Mar2019",
+      "date": "20Mar2019",
       "time": "10am",
       "moduleCode": "EG2012-G2"
     },
     {
       "id": 12345,
-      "date": "mon20Mar2019",
+      "date": "20Mar2019",
       "time": "12pm",
       "moduleCode": "EG2013-G1"
     },
     {
       "id": 12345,
-      "date": "tues21Mar2019",
+      "date": "21Mar2019",
       "time": "9am",
       "moduleCode": "EG3001-A2"
     },
     {
       "id": 12345,
-      "date": "tues21Mar2019",
+      "date": "21Mar2019",
       "time": "1pm",
       "moduleCode": "EG3210-A3"
     }
