@@ -2,6 +2,30 @@
   "onedaylesson": [
     {
       "id": 12345,
+      "date": "18/3/2019",
+      "time": "8am",
+      "moduleCode": "EG2012-E1"
+    },
+    {
+      "id": 12345,
+      "date": "18/3/2019",
+      "time": "12pm",
+      "moduleCode": "EG2013-E2"
+    },
+    {
+      "id": 12345,
+      "date": "19/3/2019",
+      "time": "9am",
+      "moduleCode": "EG3001-Z1"
+    },
+    {
+      "id": 12345,
+      "date": "19/3/2019",
+      "time": "1pm",
+      "moduleCode": "EG3210-Z3"
+    }
+    {
+      "id": 12345,
       "date": "20/3/2019",
       "time": "10am",
       "moduleCode": "EG2012-G2"
@@ -23,6 +47,18 @@
       "date": "21/3/2019",
       "time": "1pm",
       "moduleCode": "EG3210-A3"
+    }
+        {
+      "id": 12345,
+      "date": "22/3/2019",
+      "time": "3pm",
+      "moduleCode": "EG3001-C1"
+    },
+    {
+      "id": 12345,
+      "date": "22/3/2019",
+      "time": "5pm",
+      "moduleCode": "EG3210-C3"
     }
   ],
   
