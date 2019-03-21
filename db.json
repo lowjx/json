@@ -68,7 +68,7 @@
       "lessontype": "Tutorial",
       "moduleCode": "EG2012-E1",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/200?random&image=0",
+      "PictureURI":"https://picsum.photos/100?random&image=0",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -79,7 +79,7 @@
       "lessontype": "Tutorial",
       "moduleCode": "EG2012-E1",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=1",
+      "PictureURI":"https://picsum.photos/100?random&image=1",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -90,7 +90,7 @@
       "lessontype": "Tutorial",
       "moduleCode": "EG2013-E2",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=2",
+      "PictureURI":"https://picsum.photos/100?random&image=2",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -101,7 +101,7 @@
       "lessontype": "Lecture",
       "moduleCode": "EG3001-Z1",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=3",
+      "PictureURI":"https://picsum.photos/100?random&image=3",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -112,7 +112,7 @@
       "lessontype": "Lab",
       "moduleCode": "EG3210-Z3",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=4",
+      "PictureURI":"https://picsum.photos/100?random&image=4",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -123,7 +123,7 @@
       "lessontype": "Lecture",
       "moduleCode": "EG2012-G2",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=5",
+      "PictureURI":"https://picsum.photos/100?random&image=5",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -134,7 +134,7 @@
       "lessontype": "Tutorial",
       "moduleCode": "EG2013-G1",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=6",
+      "PictureURI":"https://picsum.photos/100?random&image=6",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -145,7 +145,7 @@
       "lessontype": "Lecture",
       "moduleCode": "EG3001-A2",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=7",
+      "PictureURI":"https://picsum.photos/100?random&image=7",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -156,7 +156,7 @@
       "lessontype": "Tutorial",
       "moduleCode": "EG3210-A3",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=8",
+      "PictureURI":"https://picsum.photos/100?random&image=8",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -167,7 +167,7 @@
       "lessontype": "Lab",
       "moduleCode": "EG3001-C1",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=9",
+      "PictureURI":"https://picsum.photos/100?random&image=9",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -178,7 +178,7 @@
       "lessontype": "Lab",
       "moduleCode": "EG3210-C3",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/200?random&image=10",
+      "PictureURI":"https://picsum.photos/100?random&image=10",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
