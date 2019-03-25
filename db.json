@@ -80,7 +80,7 @@
       "moduleCode": "EG2012-E1",
       "name":"Tan XX",
       "PictureURI":"https://picsum.photos/100?random&image=1",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"8.00am",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -89,9 +89,9 @@
       "date": "25/3/2019",
       "lessontype": "Tutorial",
       "moduleCode": "EG2013-E2",
-      "name":"Tan XX",
+      "name":"Wong XX",
       "PictureURI":"https://picsum.photos/100?random&image=2",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"11.50am",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -100,9 +100,9 @@
       "date": "26/3/2019",
       "lessontype": "Lecture",
       "moduleCode": "EG3001-Z1",
-      "name":"Tan XX",
+      "name":"Lee XX",
       "PictureURI":"https://picsum.photos/100?random&image=3",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"8.50am",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -111,9 +111,9 @@
       "date": "26/3/2019",
       "lessontype": "Lab",
       "moduleCode": "EG3210-Z3",
-      "name":"Tan XX",
+      "name":"Kong XX",
       "PictureURI":"https://picsum.photos/100?random&image=4",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"1pm",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -122,9 +122,9 @@
       "date": "27/3/2019",
       "lessontype": "Lecture",
       "moduleCode": "EG2012-G2",
-      "name":"Tan XX",
+      "name":"Chen XX",
       "PictureURI":"https://picsum.photos/100?random&image=5",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"9.55am",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -133,9 +133,9 @@
       "date": "27/3/2019",
       "lessontype": "Tutorial",
       "moduleCode": "EG2013-G1",
-      "name":"Tan XX",
+      "name":"Chen XX",
       "PictureURI":"https://picsum.photos/100?random&image=6",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"11.59am",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -144,9 +144,9 @@
       "date": "28/3/2019",
       "lessontype": "Lecture",
       "moduleCode": "EG3001-A2",
-      "name":"Tan XX",
+      "name":"Tee XX",
       "PictureURI":"https://picsum.photos/100?random&image=7",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"8.45am",
       "AbsentDuration":"-",
       "Absence":false
     },
@@ -155,33 +155,33 @@
       "date": "28/3/2019",
       "lessontype": "Tutorial",
       "moduleCode": "EG3210-A3",
-      "name":"Tan XX",
+      "name":"Loh XX",
       "PictureURI":"https://picsum.photos/100?random&image=8",
-      "FirstSeenTime":"7.50am",
-      "AbsentDuration":"-",
-      "Absence":false
+      "FirstSeenTime":"1.30pm",
+      "AbsentDuration":"30min",
+      "Absence":true
     },
     {
       "id": 12345,
       "date": "29/3/2019",
       "lessontype": "Lab",
       "moduleCode": "EG3001-C1",
-      "name":"Tan XX",
+      "name":"Li XX",
       "PictureURI":"https://picsum.photos/100?random&image=9",
-      "FirstSeenTime":"7.50am",
+      "FirstSeenTime":"-",
       "AbsentDuration":"-",
-      "Absence":false
+      "Absence":true
     },
     {
       "id": 12345,
       "date": "29/3/2019",
       "lessontype": "Lab",
       "moduleCode": "EG3210-C3",
-      "name":"Tan XX",
+      "name":"Song XX",
       "PictureURI":"https://picsum.photos/100?random&image=10",
-      "FirstSeenTime":"7.50am",
-      "AbsentDuration":"-",
-      "Absence":false
+      "FirstSeenTime":"5.20pm",
+      "AbsentDuration":"20min",
+      "Absence":true
     }
   ],
   "profile": {
