@@ -169,7 +169,7 @@
       "name":"Li XX",
       "PictureURI":"https://picsum.photos/100?random&image=9",
       "FirstSeenTime":"-",
-      "AbsentDuration":"-",
+      "AbsentDuration":"2hour",
       "Absence":true
     },
     {
