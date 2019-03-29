@@ -208,9 +208,9 @@
       "date": "25/3/2019",
       "time": "8am",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/100?random&image=21",
+      "PictureURI":"https://picsum.photos/100?random&image=21"
     }
-    ],
+  ],
   "profile": {
     "name": "typicode"
   }
