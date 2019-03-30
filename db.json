@@ -69,6 +69,7 @@
       "time": "8am",
       "moduleCode": "EG2012-E1",
       "name":"Lee XX",
+      "gender":"male",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -80,6 +81,7 @@
       "time": "8am",
       "moduleCode": "EG2012-E1",
       "name":"Tan XX",
+      "gender":"female",
       "FirstSeenTime":"8.00am",
       "AbsentDuration":"-",
       "Absence":false
@@ -91,7 +93,7 @@
       "time": "12pm",
       "moduleCode": "EG2013-E2",
       "name":"Wong XX",
-      "PictureURI":"https://picsum.photos/100?random&image=2",
+      "gender":"male",
       "FirstSeenTime":"11.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -103,7 +105,7 @@
       "time": "9am",
       "moduleCode": "EG3001-Z1",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/100?random&image=3",
+      "gender":"female",
       "FirstSeenTime":"8.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -115,7 +117,7 @@
       "time": "1pm",
       "moduleCode": "EG3210-Z3",
       "name":"Kong XX",
-      "PictureURI":"https://picsum.photos/100?random&image=4",
+      "gender":"male",
       "FirstSeenTime":"1pm",
       "AbsentDuration":"-",
       "Absence":false
@@ -127,7 +129,7 @@
       "time": "10am",
       "moduleCode": "EG2012-G2",
       "name":"Chen XX",
-      "PictureURI":"https://picsum.photos/100?random&image=5",
+      "gender":"female",
       "FirstSeenTime":"9.55am",
       "AbsentDuration":"-",
       "Absence":false
@@ -139,7 +141,7 @@
       "time": "12pm",
       "moduleCode": "EG2013-G1",
       "name":"Chen XX",
-      "PictureURI":"https://picsum.photos/100?random&image=6",
+      "gender":"male",
       "FirstSeenTime":"11.59am",
       "AbsentDuration":"-",
       "Absence":false
@@ -151,7 +153,7 @@
       "time": "9am",
       "moduleCode": "EG3001-A2",
       "name":"Tee XX",
-      "PictureURI":"https://picsum.photos/100?random&image=7",
+      "gender":"female",
       "FirstSeenTime":"8.45am",
       "AbsentDuration":"-",
       "Absence":false
@@ -163,7 +165,7 @@
       "time": "1pm",
       "moduleCode": "EG3210-A3",
       "name":"Loh XX",
-      "PictureURI":"https://picsum.photos/100?random&image=8",
+      "gender":"male",
       "FirstSeenTime":"1.30pm",
       "AbsentDuration":"30min",
       "Absence":true
@@ -175,7 +177,7 @@
       "time": "3pm",
       "moduleCode": "EG3001-C1",
       "name":"Li XX",
-      "PictureURI":"https://picsum.photos/100?random&image=9",
+      "gender":"female",
       "FirstSeenTime":"-",
       "AbsentDuration":"2hour",
       "Absence":true
@@ -187,7 +189,7 @@
       "time": "5pm",
       "moduleCode": "EG3210-C3",
       "name":"Song XX",
-      "PictureURI":"https://picsum.photos/100?random&image=10",
+      "gender":"male",
       "FirstSeenTime":"5.20pm",
       "AbsentDuration":"20min",
       "Absence":true
@@ -207,6 +209,69 @@
       "time": "8am",
       "name":"Tan XX",
       "PictureURI":"https://picsum.photos/100/100/?image=382"
+    },
+    {
+      "id": 12345,
+      "date": "25/3/2019",
+      "time": "12pm",
+      "name":"Wong XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=383"
+    },
+    {
+      "id": 12345,
+      "date": "26/3/2019",
+      "time": "9am",
+      "name":"Lee XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=384"
+    },
+    {
+      "id": 12345,
+      "date": "26/3/2019",
+      "time": "1pm",
+      "name":"Kong XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=385"
+    },
+    {
+      "id": 12345,
+      "date": "27/3/2019",
+      "time": "10am",
+      "name":"Chen XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=386"
+    },
+    {
+      "id": 12345,
+      "date": "27/3/2019",
+      "time": "12pm",,
+      "name":"Chen XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=387"
+    },
+    {
+      "id": 12345,
+      "date": "28/3/2019",
+      "time": "9am",
+      "name":"Tee XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=388"
+    },
+    {
+      "id": 12345,
+      "date": "28/3/2019",
+      "time": "1pm",
+      "name":"Loh XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=389"
+    },
+    {
+      "id": 12345,
+      "date": "29/3/2019",
+      "time": "3pm",
+      "name":"Li XX",
+     "PictureURI":"https://picsum.photos/100/100/?image=390"
+    },
+    {
+      "id": 12345,
+      "date": "29/3/2019",
+      "time": "5pm",
+      "name":"Song XX",
+      "PictureURI":"https://picsum.photos/100/100/?image=391"
     }
   ],
   "profile": {
