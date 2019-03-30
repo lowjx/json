@@ -2,61 +2,61 @@
   "onedaylesson": [
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "8am",
       "moduleCode": "EG2012-E1"
     },
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "12pm",
       "moduleCode": "EG2013-E2"
     },
     {
       "id": 12345,
-      "date": "2019-03-26",
+      "date": "2019-3-26",
       "time": "9am",
       "moduleCode": "EG3001-Z1"
     },
     {
       "id": 12345,
-      "date": "2019-03-26",
+      "date": "2019-3-26",
       "time": "1pm",
       "moduleCode": "EG3210-Z3"
     },
     {
       "id": 12345,
-      "date": "2019-03-27",
+      "date": "2019-3-27",
       "time": "10am",
       "moduleCode": "EG2012-G2"
     },
     {
       "id": 12345,
-      "date": "2019-03-27",
+      "date": "2019-3-27",
       "time": "12pm",
       "moduleCode": "EG2013-G1"
     },
     {
       "id": 12345,
-      "date": "2019-03-28",
+      "date": "2019-3-28",
       "time": "9am",
       "moduleCode": "EG3001-A2"
     },
     {
       "id": 12345,
-      "date": "2019-03-28",
+      "date": "2019-3-28",
       "time": "1pm",
       "moduleCode": "EG3210-A3"
     },
     {
       "id": 12345,
-      "date": "2019-03-29",
+      "date": "2019-3-29",
       "time": "3pm",
       "moduleCode": "EG3001-C1"
     },
     {
       "id": 12345,
-      "date": "2019-03-29",
+      "date": "2019-3-29",
       "time": "5pm",
       "moduleCode": "EG3210-C3"
     }
@@ -64,7 +64,7 @@
   "attendance": [
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "8am",
       "moduleCode": "EG2012-E1",
       "name":"Lee XX",
@@ -75,7 +75,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "8am",
       "moduleCode": "EG2012-E1",
       "name":"Tan XX",
@@ -86,7 +86,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "12pm",
       "moduleCode": "EG2013-E2",
       "name":"Wong XX",
@@ -97,7 +97,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-26",
+      "date": "2019-3-26",
       "time": "9am",
       "moduleCode": "EG3001-Z1",
       "name":"Lee XX",
@@ -108,7 +108,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-26",
+      "date": "2019-3-26",
       "time": "1pm",
       "moduleCode": "EG3210-Z3",
       "name":"Kong XX",
@@ -119,7 +119,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-27",
+      "date": "2019-3-27",
       "time": "10am",
       "moduleCode": "EG2012-G2",
       "name":"Chen XX",
@@ -130,7 +130,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-27",
+      "date": "2019-3-27",
       "time": "12pm",
       "moduleCode": "EG2013-G1",
       "name":"Chen XX",
@@ -141,7 +141,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-28",
+      "date": "2019-3-28",
       "time": "9am",
       "moduleCode": "EG3001-A2",
       "name":"Tee XX",
@@ -152,7 +152,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-28",
+      "date": "2019-3-28",
       "time": "1pm",
       "moduleCode": "EG3210-A3",
       "name":"Loh XX",
@@ -163,7 +163,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-29",
+      "date": "2019-3-29",
       "time": "3pm",
       "moduleCode": "EG3001-C1",
       "name":"Li XX",
@@ -174,7 +174,7 @@
     },
     {
       "id": 12345,
-      "date": "2019-03-29",
+      "date": "2019-3-29",
       "time": "5pm",
       "moduleCode": "EG3210-C3",
       "name":"Song XX",
@@ -187,77 +187,77 @@
   "photo": [
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "8am",
       "name":"Lee XX",
       "PictureURI":"https://picsum.photos/150/150/?image=381"
     },
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "8am",
       "name":"Tan XX",
       "PictureURI":"https://picsum.photos/150/150/?image=382"
     },
     {
       "id": 12345,
-      "date": "2019-03-25",
+      "date": "2019-3-25",
       "time": "12pm",
       "name":"Wong XX",
       "PictureURI":"https://picsum.photos/150/150/?image=383"
     },
     {
       "id": 12345,
-      "date": "2019-03-26",
+      "date": "2019-3-26",
       "time": "9am",
       "name":"Lee XX",
       "PictureURI":"https://picsum.photos/150/150/?image=384"
     },
     {
       "id": 12345,
-      "date": "2019-03-26",
+      "date": "2019-3-26",
       "time": "1pm",
       "name":"Kong XX",
       "PictureURI":"https://picsum.photos/150/150/?image=385"
     },
     {
       "id": 12345,
-      "date": "2019-03-27",
+      "date": "2019-3-27",
       "time": "10am",
       "name":"Chen XX",
       "PictureURI":"https://picsum.photos/150/150/?image=386"
     },
     {
       "id": 12345,
-      "date": "2019-03-27",
+      "date": "2019-3-27",
       "time": "12pm",
       "name":"Chen XX",
       "PictureURI":"https://picsum.photos/150/150/?image=387"
     },
     {
       "id": 12345,
-      "date": "2019-03-28",
+      "date": "2019-3-28",
       "time": "9am",
       "name":"Tee XX",
       "PictureURI":"https://picsum.photos/150/150/?image=388"
     },
     {
       "id": 12345,
-      "date": "2019-03-28",
+      "date": "2019-3-28",
       "time": "1pm",
       "name":"Loh XX",
       "PictureURI":"https://picsum.photos/150/150/?image=389"
     },
     {
       "id": 12345,
-      "date": "2019-03-29",
+      "date": "2019-3-29",
       "time": "3pm",
       "name":"Li XX",
      "PictureURI":"https://picsum.photos/150/150/?image=390"
     },
     {
       "id": 12345,
-      "date": "2019-03-29",
+      "date": "2019-3-29",
       "time": "5pm",
       "name":"Song XX",
       "PictureURI":"https://picsum.photos/150/150/?image=391"
