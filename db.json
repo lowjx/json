@@ -69,7 +69,6 @@
       "time": "8am",
       "moduleCode": "EG2012-E1",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/100?random&image=0",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -81,7 +80,6 @@
       "time": "8am",
       "moduleCode": "EG2012-E1",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/100?random&image=1",
       "FirstSeenTime":"8.00am",
       "AbsentDuration":"-",
       "Absence":false
