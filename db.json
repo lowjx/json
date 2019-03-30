@@ -201,77 +201,77 @@
       "date": "25/3/2019",
       "time": "8am",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=381"
+      "PictureURI":"https://picsum.photos/150/150/?image=381"
     },
     {
       "id": 12345,
       "date": "25/3/2019",
       "time": "8am",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=382"
+      "PictureURI":"https://picsum.photos/150/150/?image=382"
     },
     {
       "id": 12345,
       "date": "25/3/2019",
       "time": "12pm",
       "name":"Wong XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=383"
+      "PictureURI":"https://picsum.photos/150/150/?image=383"
     },
     {
       "id": 12345,
       "date": "26/3/2019",
       "time": "9am",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=384"
+      "PictureURI":"https://picsum.photos/150/150/?image=384"
     },
     {
       "id": 12345,
       "date": "26/3/2019",
       "time": "1pm",
       "name":"Kong XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=385"
+      "PictureURI":"https://picsum.photos/150/150/?image=385"
     },
     {
       "id": 12345,
       "date": "27/3/2019",
       "time": "10am",
       "name":"Chen XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=386"
+      "PictureURI":"https://picsum.photos/150/150/?image=386"
     },
     {
       "id": 12345,
       "date": "27/3/2019",
       "time": "12pm",
       "name":"Chen XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=387"
+      "PictureURI":"https://picsum.photos/150/150/?image=387"
     },
     {
       "id": 12345,
       "date": "28/3/2019",
       "time": "9am",
       "name":"Tee XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=388"
+      "PictureURI":"https://picsum.photos/150/150/?image=388"
     },
     {
       "id": 12345,
       "date": "28/3/2019",
       "time": "1pm",
       "name":"Loh XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=389"
+      "PictureURI":"https://picsum.photos/150/150/?image=389"
     },
     {
       "id": 12345,
       "date": "29/3/2019",
       "time": "3pm",
       "name":"Li XX",
-     "PictureURI":"https://picsum.photos/100/100/?image=390"
+     "PictureURI":"https://picsum.photos/150/150/?image=390"
     },
     {
       "id": 12345,
       "date": "29/3/2019",
       "time": "5pm",
       "name":"Song XX",
-      "PictureURI":"https://picsum.photos/100/100/?image=391"
+      "PictureURI":"https://picsum.photos/150/150/?image=391"
     }
   ],
   "profile": {
