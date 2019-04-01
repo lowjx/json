@@ -2,6 +2,22 @@
   "onedaylesson": [
     {
       "id": "LIAWSW",
+      "date": "2019-3-25",
+      "day":"monday",
+      "week":"1",
+      "time": "8am",
+      "moduleCode": "EG2012-E1-1"
+    },
+    {
+      "id": "LIAWSW",
+      "date": "2019-3-25",
+      "day":"monday",
+      "week":"1",
+      "time": "12pm",
+      "moduleCode": "EG2013-E2-1"
+    },
+    {
+      "id": "LIAWSW",
       "date": "2019-4-1",
       "day":"monday",
       "week":"2",
