@@ -262,7 +262,7 @@
       "time": "8am",
       "name":"Lee XX",
       "uri":"photo1",
-      "BinaryImage":"https://picsum.photos/150/150/?image=381"
+      "photo":"https://picsum.photos/150/150/?image=381"
     },
     {
       "id": "LIAWSW",
@@ -272,7 +272,7 @@
       "time": "8am",
       "name":"Tan XX",
       "uri":"photo2",
-      "BinaryImage":"https://picsum.photos/150/150/?image=382"
+      "photo":"https://picsum.photos/150/150/?image=382"
     },
     {
       "id": "LIAWSW",
@@ -282,7 +282,7 @@
       "time": "12pm",
       "name":"Wong XX",
       "uri":"photo3",
-      "BinaryImage":"https://picsum.photos/150/150/?image=383"
+      "photo":"https://picsum.photos/150/150/?image=383"
     },
     {
       "id": "LIAWSW",
@@ -292,7 +292,7 @@
       "time": "9am",
       "name":"Lee XX",
       "uri":"photo4",
-      "BinaryImage":"https://picsum.photos/150/150/?image=384"
+      "photo":"https://picsum.photos/150/150/?image=384"
     },
     {
       "id": "LIAWSW",
@@ -302,7 +302,7 @@
       "time": "1pm",
       "name":"Kong XX",
       "uri":"photo5",
-      "BinaryImage":"https://picsum.photos/150/150/?image=385"
+      "photo":"https://picsum.photos/150/150/?image=385"
     },
     {
       "id": "LIAWSW",
@@ -312,7 +312,7 @@
       "time": "10am",
       "name":"Chen XX",
       "uri":"photo6",
-      "BinaryImage":"https://picsum.photos/150/150/?image=386"
+      "photo":"https://picsum.photos/150/150/?image=386"
     },
     {
       "id": "LIAWSW",
@@ -322,7 +322,7 @@
       "time": "12pm",
       "name":"Chen XX",
       "uri":"photo7",
-      "BinaryImage":"https://picsum.photos/150/150/?image=387"
+      "photo":"https://picsum.photos/150/150/?image=387"
     },
     {
       "id": "LIAWSW",
@@ -332,7 +332,7 @@
       "time": "9am",
       "name":"Tee XX",
       "uri":"photo8",
-      "BinaryImage":"https://picsum.photos/150/150/?image=388"
+      "photo":"https://picsum.photos/150/150/?image=388"
     },
     {
       "id": "LIAWSW",
@@ -342,7 +342,7 @@
       "time": "1pm",
       "name":"Loh XX",
       "uri":"photo9",
-      "BinaryImage":"https://picsum.photos/150/150/?image=389"
+      "photo":"https://picsum.photos/150/150/?image=389"
     },
     {
       "id": "LIAWSW",
@@ -352,7 +352,7 @@
       "time": "3pm",
       "name":"Li XX",
       "uri":"photo10",
-     "BinaryImage":"https://picsum.photos/150/150/?image=390"
+      "photo":"https://picsum.photos/150/150/?image=390"
     },
     {
       "id": "LIAWSW",
@@ -362,7 +362,7 @@
       "time": "5pm",
       "name":"Song XX",
       "uri":"photo11",
-      "BinaryImage":"https://picsum.photos/150/150/?image=391"
+      "photo":"https://picsum.photos/150/150/?image=391"
     }
   ],
   "profile": {
