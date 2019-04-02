@@ -436,5 +436,25 @@
       "day":"friday",
       "week": "3"
     }
-   ]
+   ],
+  "welcome": [   
+    {
+      "name": "Liaw Sze Wong",
+      "time": "1pm",
+      "gender":"male",
+      "IsClass": false
+    },
+    {
+      "name": "Low Jia Xin",
+      "time": "1pm",
+      "gender":"female",
+      "IsClass": true
+    },
+    {
+      "name": "Sophia Wei",
+      "time": "1.10pm",
+      "gender":"female",
+      "IsClass": true
+    }
+    ]
 }
