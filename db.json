@@ -256,110 +256,66 @@
   "photo": [
     {
       "id": "LIAWSW",
-      "day":"monday",
-      "week":"2",
-      "dayno":"1",
-      "time": "8am",
       "name":"Lee XX",
       "uri":"photo1",
       "photo":"https://picsum.photos/150/150/?image=381"
     },
     {
       "id": "LIAWSW",
-      "day":"monday",
-      "week":"2",
-      "dayno":"1",
-      "time": "8am",
       "name":"Tan XX",
       "uri":"photo2",
       "photo":"https://picsum.photos/150/150/?image=382"
     },
     {
       "id": "LIAWSW",
-      "day":"monday",
-      "week":"2",
-      "dayno":"1",
-      "time": "12pm",
       "name":"Wong XX",
       "uri":"photo3",
       "photo":"https://picsum.photos/150/150/?image=383"
     },
     {
       "id": "LIAWSW",
-      "day":"tuesday",
-      "week":"2",
-      "dayno":"2",
-      "time": "9am",
       "name":"Lee XX",
       "uri":"photo4",
       "photo":"https://picsum.photos/150/150/?image=384"
     },
     {
       "id": "LIAWSW",
-      "day":"tuesday",
-      "week":"2",
-      "dayno":"2",
-      "time": "1pm",
       "name":"Kong XX",
       "uri":"photo5",
       "photo":"https://picsum.photos/150/150/?image=385"
     },
     {
       "id": "LIAWSW",
-      "day":"wednesday",
-      "week":"2",
-      "dayno":"3",
-      "time": "10am",
       "name":"Chen XX",
       "uri":"photo6",
       "photo":"https://picsum.photos/150/150/?image=386"
     },
     {
       "id": "LIAWSW",
-      "day":"wednesday",
-      "week":"2",
-      "dayno":"3",
-      "time": "12pm",
       "name":"Chen XX",
       "uri":"photo7",
       "photo":"https://picsum.photos/150/150/?image=387"
     },
     {
       "id": "LIAWSW",
-      "day":"thursday",
-      "week":"2",
-      "dayno":"4",
-      "time": "9am",
       "name":"Tee XX",
       "uri":"photo8",
       "photo":"https://picsum.photos/150/150/?image=388"
     },
     {
       "id": "LIAWSW",
-      "day":"thursday",
-      "week":"2",
-      "dayno":"4",
-      "time": "1pm",
       "name":"Loh XX",
       "uri":"photo9",
       "photo":"https://picsum.photos/150/150/?image=389"
     },
     {
       "id": "LIAWSW",
-      "day":"friday",
-      "week":"2",
-      "dayno":"5",
-      "time": "3pm",
       "name":"Li XX",
       "uri":"photo10",
       "photo":"https://picsum.photos/150/150/?image=390"
     },
     {
       "id": "LIAWSW",
-      "day":"friday",
-      "week":"2",
-      "dayno":"5",
-      "time": "5pm",
       "name":"Song XX",
       "uri":"photo11",
       "photo":"https://picsum.photos/150/150/?image=391"
