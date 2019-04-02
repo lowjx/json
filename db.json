@@ -107,6 +107,7 @@
       "moduleCode": "EG2012-E1",
       "name":"Lee XX",
       "gender":"male",
+      "uri":"photo1",
       "FirstSeenTime":"7.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -120,6 +121,7 @@
       "moduleCode": "EG2012-E1",
       "name":"Tan XX",
       "gender":"female",
+      "uri":"photo2",
       "FirstSeenTime":"8.00am",
       "AbsentDuration":"-",
       "Absence":false
@@ -133,6 +135,7 @@
       "moduleCode": "EG2013-E2",
       "name":"Wong XX",
       "gender":"male",
+      "uri":"photo3",
       "FirstSeenTime":"11.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -146,6 +149,7 @@
       "moduleCode": "EG3001-Z1",
       "name":"Lee XX",
       "gender":"female",
+      "uri":"photo4",
       "FirstSeenTime":"8.50am",
       "AbsentDuration":"-",
       "Absence":false
@@ -159,6 +163,7 @@
       "moduleCode": "EG3210-Z3",
       "name":"Kong XX",
       "gender":"male",
+      "uri":"photo5",
       "FirstSeenTime":"1pm",
       "AbsentDuration":"-",
       "Absence":false
@@ -172,6 +177,7 @@
       "moduleCode": "EG2012-G2",
       "name":"Chen XX",
       "gender":"female",
+      "uri":"photo6",
       "FirstSeenTime":"9.55am",
       "AbsentDuration":"-",
       "Absence":false
@@ -185,6 +191,7 @@
       "moduleCode": "EG2013-G1",
       "name":"Chen XX",
       "gender":"male",
+      "uri":"photo7",
       "FirstSeenTime":"11.59am",
       "AbsentDuration":"-",
       "Absence":false
@@ -198,6 +205,7 @@
       "moduleCode": "EG3001-A2",
       "name":"Tee XX",
       "gender":"female",
+      "uri":"photo8",
       "FirstSeenTime":"8.45am",
       "AbsentDuration":"-",
       "Absence":false
@@ -211,6 +219,7 @@
       "moduleCode": "EG3210-A3",
       "name":"Loh XX",
       "gender":"male",
+      "uri":"photo9",
       "FirstSeenTime":"1.30pm",
       "AbsentDuration":"30min",
       "Absence":true
@@ -224,6 +233,7 @@
       "moduleCode": "EG3001-C1",
       "name":"Li XX",
       "gender":"female",
+      "uri":"photo10",
       "FirstSeenTime":"-",
       "AbsentDuration":"2hour",
       "Absence":true
@@ -237,6 +247,7 @@
       "moduleCode": "EG3210-C3",
       "name":"Song XX",
       "gender":"male",
+      "uri":"photo11",
       "FirstSeenTime":"5.20pm",
       "AbsentDuration":"20min",
       "Absence":true
@@ -250,7 +261,8 @@
       "week":"2",
       "time": "8am",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=381"
+      "uri":"photo1",
+      "BinaryImage":"https://picsum.photos/150/150/?image=381"
     },
     {
       "id": "LIAWSW",
@@ -259,7 +271,8 @@
       "week":"2",
       "time": "8am",
       "name":"Tan XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=382"
+      "uri":"photo2",
+      "BinaryImage":"https://picsum.photos/150/150/?image=382"
     },
     {
       "id": "LIAWSW",
@@ -268,7 +281,8 @@
       "week":"2",
       "time": "12pm",
       "name":"Wong XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=383"
+      "uri":"photo3",
+      "BinaryImage":"https://picsum.photos/150/150/?image=383"
     },
     {
       "id": "LIAWSW",
@@ -277,7 +291,8 @@
       "week":"2",
       "time": "9am",
       "name":"Lee XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=384"
+      "uri":"photo4",
+      "BinaryImage":"https://picsum.photos/150/150/?image=384"
     },
     {
       "id": "LIAWSW",
@@ -286,7 +301,8 @@
       "week":"2",
       "time": "1pm",
       "name":"Kong XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=385"
+      "uri":"photo5",
+      "BinaryImage":"https://picsum.photos/150/150/?image=385"
     },
     {
       "id": "LIAWSW",
@@ -295,7 +311,8 @@
       "week":"2",
       "time": "10am",
       "name":"Chen XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=386"
+      "uri":"photo6",
+      "BinaryImage":"https://picsum.photos/150/150/?image=386"
     },
     {
       "id": "LIAWSW",
@@ -304,7 +321,8 @@
       "week":"2",
       "time": "12pm",
       "name":"Chen XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=387"
+      "uri":"photo7",
+      "BinaryImage":"https://picsum.photos/150/150/?image=387"
     },
     {
       "id": "LIAWSW",
@@ -313,7 +331,8 @@
       "week":"2",
       "time": "9am",
       "name":"Tee XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=388"
+      "uri":"photo8",
+      "BinaryImage":"https://picsum.photos/150/150/?image=388"
     },
     {
       "id": "LIAWSW",
@@ -322,7 +341,8 @@
       "week":"2",
       "time": "1pm",
       "name":"Loh XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=389"
+      "uri":"photo9",
+      "BinaryImage":"https://picsum.photos/150/150/?image=389"
     },
     {
       "id": "LIAWSW",
@@ -331,7 +351,8 @@
       "week":"2",
       "time": "3pm",
       "name":"Li XX",
-     "PictureURI":"https://picsum.photos/150/150/?image=390"
+      "uri":"photo10",
+     "BinaryImage":"https://picsum.photos/150/150/?image=390"
     },
     {
       "id": "LIAWSW",
@@ -340,7 +361,8 @@
       "week":"2",
       "time": "5pm",
       "name":"Song XX",
-      "PictureURI":"https://picsum.photos/150/150/?image=391"
+      "uri":"photo11",
+      "BinaryImage":"https://picsum.photos/150/150/?image=391"
     }
   ],
   "profile": {
