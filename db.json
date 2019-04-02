@@ -441,18 +441,21 @@
     {
       "name": "Liaw Sze Wong",
       "time": "1pm",
+      "late": false,
       "gender":"male",
       "IsClass": false
     },
     {
       "name": "Low Jia Xin",
-      "time": "1pm",
+      "time": "2pm",
+      "late": true,
       "gender":"female",
       "IsClass": true
     },
     {
       "name": "Sophia Wei",
       "time": "1.10pm",
+      "late":false,
       "gender":"female",
       "IsClass": true
     }
