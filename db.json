@@ -442,22 +442,25 @@
       "name": "Liaw Sze Wong",
       "time": "1pm",
       "late": false,
-      "gender":"male",
-      "IsClass": false
+      "gender":"M",
+      "IsClass": false,
+      "location": "S434"
     },
     {
       "name": "Low Jia Xin",
       "time": "2pm",
       "late": true,
-      "gender":"female",
-      "IsClass": true
+      "gender":"F",
+      "IsClass": true,
+      "location": "S434"
     },
     {
       "name": "Sophia Wei",
       "time": "1.10pm",
       "late":false,
-      "gender":"female",
-      "IsClass": true
+      "gender":"F",
+      "IsClass": true,
+      "location": "S434"
     }
     ]
 }
