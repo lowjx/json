@@ -73,7 +73,7 @@
       "moduleCode": "EG3001-A2"
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "wday":"thursday",
       "week":"2",
       "day":"4",
@@ -89,7 +89,7 @@
       "moduleCode": "EG3001-C1"
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "wday":"friday",
       "week":"2",
       "day":"5",
@@ -211,7 +211,7 @@
       "Absence":false
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "wday":"thursday",
       "week":"2",
       "day":"4",
@@ -239,7 +239,7 @@
       "Absence":true
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "wday":"friday",
       "week":"2",
       "day":"5",
@@ -303,7 +303,7 @@
       "photo":"https://picsum.photos/150/150/?image=388"
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "name":"Loh XX",
       "uri":"photo9",
       "photo":"https://picsum.photos/150/150/?image=389"
@@ -315,7 +315,7 @@
       "photo":"https://picsum.photos/150/150/?image=390"
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "name":"Song XX",
       "uri":"photo11",
       "photo":"https://picsum.photos/150/150/?image=391"
@@ -353,13 +353,13 @@
       "week": "2"
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "date": "2019-4-4",
       "day":"thursday",
       "week": "2"
     },
     {
-      "id": "LIAWSW",
+      "id": "LOWJX",
       "date": "2019-4-5",
       "day":"friday",
       "week": "2"
