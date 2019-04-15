@@ -324,36 +324,6 @@
   "calendar": [   
     {
       "id": "LIAWSW",
-      "date": "2019-3-25",
-      "day":"monday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-3-26",
-      "day":"tuesday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-3-27",
-      "day":"wednesday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-3-28",
-      "day":"thursday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-3-29",
-      "day":"friday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
       "date": "2019-3-30",
       "day":"saturday",
       "week": "1"
