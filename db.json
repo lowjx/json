@@ -324,104 +324,14 @@
   "calendar": [   
     {
       "id": "LIAWSW",
-      "date": "2019-3-30",
-      "day":"saturday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-3-31",
-      "day":"sunday",
-      "week": "1"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-1",
-      "day":"monday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-2",
-      "day":"tuesday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-3",
+      "date": "2019-4-17",
       "day":"wednesday",
-      "week": "2"
-    },
-    {
-      "id": "LOWJX",
-      "date": "2019-4-4",
-      "day":"thursday",
-      "week": "2"
-    },
-    {
-      "id": "LOWJX",
-      "date": "2019-4-5",
-      "day":"friday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-6",
-      "day":"saturday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-7",
-      "day":"sunday",
-      "week": "2"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-8",
-      "day":"monday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-9",
-      "day":"tuesday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-10",
-      "day":"wednesday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-11",
-      "day":"thursday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-12",
-      "day":"friday",
-      "week": "3"
-    },
-    {
-      "id": "LIAWSW",
-      "date": "2019-4-15",
-      "day":"monday",
       "week": "4"
     },
     {
       "id": "LOWJX",
-      "date": "2019-4-15",
-      "day":"monday",
-      "week": "4"
-    },
-    {
-      "id": "LOWJX",
-      "date": "2019-4-16",
-      "day":"tuesday",
+      "date": "2019-4-17",
+      "day":"wednesday",
       "week": "4"
     }
    ],
